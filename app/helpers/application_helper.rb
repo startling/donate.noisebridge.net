@@ -1,5 +1,5 @@
 module ApplicationHelper
-  GITHUB_URL = "https://github.com/patrickod/noisebridge-donate".freeze
+  GITHUB_URL = "https://github.com/noisebridge/donate.noisebridge.net".freeze
   LICENSE_URL = "https://gnu.org/licenses/agpl.html".freeze
   BITCOIN_ADDRESS = "1NrbWrxkdPuyPfFtc1W4AKNtkQMyXwAAJV".freeze
 
